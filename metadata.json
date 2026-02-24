@@ -1,0 +1,7 @@
+{
+  "name": "Virtual Digital Market - Multi-Vendor eCommerce Platform",
+  "description": "A comprehensive, high-performance multi-vendor marketplace featuring buyer/seller dashboards, product management, and a seamless shopping experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
